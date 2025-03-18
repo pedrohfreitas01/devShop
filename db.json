@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Smartphone XYZ",
+      "description": "Um smartphone avançado com câmera de 108MP, 256GB de armazenamento e tela AMOLED de 6.7 polegadas.",
+      "price": 2999.99,
+      "cover": "https://images.unsplash.com/photo-1610792516307-ea5acd9c3b00"
+    },
+    {
+      "id": 2,
+      "title": "Notebook UltraSlim",
+      "description": "Notebook leve e potente com processador Intel Core i7, 16GB de RAM e SSD de 512GB.",
+      "price": 5499.99,
+      "cover": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853"
+    },
+    {
+      "id": 3,
+      "title": "Fone de Ouvido Sem Fio",
+      "description": "Fone de ouvido Bluetooth com cancelamento de ruído e até 20 horas de bateria.",
+      "price": 799.99,
+      "cover": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e"
+    },
+    {
+      "id": 4,
+      "title": "Smartwatch Pro",
+      "description": "Smartwatch com monitoramento de saúde, GPS integrado e resistência à água.",
+      "price": 1299.99,
+      "cover": "https://images.unsplash.com/photo-1558126319-c9feecbf57ee"
+    },
+    {
+      "id": 5,
+      "title": "Tablet Multifuncional",
+      "description": "Tablet com tela de 10.5 polegadas, 128GB de armazenamento e caneta stylus inclusa.",
+      "price": 1999.99,
+      "cover": "https://images.unsplash.com/photo-1527698266440-12104e498b76"
+    }
+  ]
+}
